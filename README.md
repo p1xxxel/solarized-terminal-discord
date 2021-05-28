@@ -2,9 +2,9 @@
 
 ## Screenshots
 
-[](https://github.com/p1xxxel/solarized-terminal-discord/blob/main/screenshot1.png)
+![](https://github.com/p1xxxel/solarized-terminal-discord/blob/main/screenshot1.png)
 
-[](https://github.com/p1xxxel/solarized-terminal-discord/blob/main/screenshot2.png)
+![](https://github.com/p1xxxel/solarized-terminal-discord/blob/main/screenshot2.png)
 
 ## Requirements
 
