@@ -54,7 +54,7 @@ html, body {
   font-family: 'Share Tech Mono', monospace;
 }
 
-/* --== Add CRT effect ==-- */
+/* --== Add CRT effect ==-- 
 html,body::before, .theme-dark .perksModal-fSYqOq::before,
 .standardSidebarView-3F1I7i::before, .userPopout-3XzG_A::before,
 .inner-1ilYF7::before, .container-1CE3eW::before, .resultsGroup-r_nuzN::before,
