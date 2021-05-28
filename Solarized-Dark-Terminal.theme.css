@@ -5,17 +5,7 @@
  * @source https://raw.githubusercontent.com/p1xxxel/solarized-terminal-discord/main/css/main.css
  * @website https://github.com/p1xxxel/solarized-terminal-discord
  * @description A theme to make discord look like solarized dark terminal
- * @authorId 
+ * @authorId 397009883062337557
 */
 
-@import url('https://raw.githubusercontent.com/p1xxxel/solarized-terminal-discord/main/main.css');
-
-/* TO CUSTOMIZE THE THEME, REPLACE THE VARIABLES BELOW*/
-
-
-:root {
-  --background: #002b36 !important;
-  --text-color: #1c7e97 !important;
-  --highlight: var(--text-color) !important;
-}
-
+@import url('https://gitcdn.xyz/repo/p1xxxel/solarized-terminal-discord/main/css/main.css');

@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
 
 :root, .theme-light {
   --rgb-highlight: 4, 217, 255;
   --highlight: var(--text-color);
-  --background: #000900;
-  --text-color: #4AEF98;
+  --background: #002b36;
+  --text-color: #1c7e97;
   --close-button: var(--dnd-color) !important;
   --online-color: #39ff14;
   --afk-color: #FFFF33;
