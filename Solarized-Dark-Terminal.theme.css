@@ -2,13 +2,13 @@
  * @name Solarized Dark Terminal
  * @author Code#0002
  * @version 1.0.0
- * @source 
- * @website 
+ * @source https://raw.githubusercontent.com/p1xxxel/solarized-terminal-discord/main/main.css
+ * @website https://github.com/p1xxxel/solarized-terminal-discord
  * @description A theme to make discord look like solarized dark terminal
  * @authorId 
 */
 
-@import url('');
+@import url('https://raw.githubusercontent.com/p1xxxel/solarized-terminal-discord/main/main.css');
 
 /* TO CUSTOMIZE THE THEME, REPLACE THE VARIABLES BELOW*/
 
