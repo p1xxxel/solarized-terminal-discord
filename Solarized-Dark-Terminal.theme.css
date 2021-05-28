@@ -1,0 +1,21 @@
+/**
+ * @name Solarized Dark Terminal
+ * @author Code#0002
+ * @version 1.0.0
+ * @source 
+ * @website 
+ * @description A theme to make discord look like solarized dark terminal
+ * @authorId 
+*/
+
+@import url('');
+
+/* TO CUSTOMIZE THE THEME, REPLACE THE VARIABLES BELOW*/
+
+
+:root {
+  --background: #002b36 !important;
+  --text-color: #1c7e97 !important;
+  --highlight: var(--text-color) !important;
+}
+
