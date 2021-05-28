@@ -71,7 +71,7 @@ html,body::before, .theme-dark .perksModal-fSYqOq::before,
   z-index: 2;
   background-size: 100% 2px, 3px 100%;
   pointer-events: none;
-}
+} */
 
 /* --== Make sure everything's still clickable ==-- */
 body *, .userPopout-3XzG_A * {
